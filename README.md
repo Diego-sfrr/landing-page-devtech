@@ -20,12 +20,14 @@ Landing page de uma empresa fictícia de tecnologia, feita como exercício prát
 AULA3/
 ├── index.html
 ├── css/Devtech.css
-└── img/
+└── img/          # imagens do hero e dos serviços
 ```
 
 ## ▶️ Como ver
 
-Clone o repositório e abra `AULA3/index.html` no navegador.
+**Online:** https://diego-sfrr.github.io/landing-page-devtech/
+
+Ou clone o repositório e abra `AULA3/index.html` no navegador.
 
 ---
 Desenvolvido por **Diego da Silva Ferreira**.
